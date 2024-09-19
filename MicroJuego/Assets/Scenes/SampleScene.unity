@@ -325,8 +325,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4b0fdb24e524944586be798b51b1891, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrustForce: 100
-  rotationSpeed: 120
+  thrustForce: 120
+  rotationSpeed: 140
   gun: {fileID: 800179178}
   bulletPrefab: {fileID: 8170144265897915331, guid: 8beb1e5e8ab44ce45837a3b8ba013e33, type: 3}
 --- !u!54 &51054583
@@ -820,7 +820,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d8a6d021430169448e431015f484197, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  asteroidPrefab: {fileID: 4682074345765147516, guid: a92d31d662cda6c4d941b6e01842d2e4, type: 3}
   spawnRatePerMinute: 30
   spawnRateIncrement: 1
   xLimit: 6
